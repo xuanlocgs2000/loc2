@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mn_4"
+        android:icon="@drawable/ic_dialog_close_dark"
+        android:title="Menu"
+        app:showAsAction="always">
+        >
+        <menu>
+            <item
+                android:id="@+id/mn_nld_trangChu"
+                android:title="Trang Chủ"></item>
+
+            <item
+                android:id="@+id/mn_nld_thitruong"
+                android:title="Thị Trường" />
+            <item
+                android:id="@+id/mn_nld_tstn"
+                android:title="Thời Sự Trong Nước" />
+            <item
+                android:id="@+id/mn_nld_tsqt"
+                android:title="Thời Sự Quốc Tế" />
+            <item
+                android:id="@+id/mn_nld_kinhte"
+                android:title="Kinh Tế" />
+            <item
+                android:id="@+id/mn_nld_congdoan"
+                android:title="Công Đoàn" />
+            <item
+                android:id="@+id/mn_nld_dulich"
+                android:title="Du Lịch" />
+            <item
+                android:id="@+id/mn_nld_giaoduc"
+                android:title="Giáo Dục" />
+            <item
+                android:id="@+id/mn_nld_diaoc"
+                android:title="Địa Ốc" />
+            <item
+                android:id="@+id/mn_nld_khoahoc"
+                android:title="Khoa Học" />
+            <item
+                android:id="@+id/mn_nld_phapluat"
+                android:title="Pháp Luật" />
+            <item
+                android:id="@+id/mn_nld_vannghe"
+                android:title="Văn Nghệ" />
+            <item
+                android:id="@+id/mn_nld_thethao"
+                android:title="Thể Thao" />
+            <item
+                android:id="@+id/mn_nld_suckhoe"
+                android:title="Sức Khỏe" />
+            <item
+                android:id="@+id/mn_nld_tyhn"
+                android:title="Tình Yêu- Hôn Nhân" />
+            <item
+                android:id="@+id/mn_nld_bandoc"
+                android:title="Bạn Đọc" />
+            <item
+                android:id="@+id/mn_nld_congnghe"
+                android:title="Công Nghệ" />
+            <item
+                android:id="@+id/mn_nld_ttld"
+                android:title="Thời Trang- Làm Đẹp" />
+            <item
+                android:id="@+id/mn_nld_thugian"
+                android:title="Thư Giãn" />
+
+
+        </menu>
+    </item>
+
+</menu>

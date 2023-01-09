@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mn_ex"
+        android:icon="@drawable/scrolldown3"
+        android:title="Menu"
+        app:showAsAction="always">
+        >
+        <menu>
+            <item
+                android:id="@+id/mn_ex_trangChu"
+                android:icon="@drawable/home"
+                android:title="Trang Chủ"></item>
+
+            <item
+                android:id="@+id/mn_ex_thoiSu"
+                android:icon="@drawable/thoisu"
+                android:title="Thời Sự"></item>
+            <item
+                android:id="@+id/mn_ex_theGioi"
+                android:icon="@drawable/thegioi"
+                android:title="Thế Giới"></item>
+            <item
+                android:id="@+id/mn_ex_kinhDoanh"
+                android:icon="@drawable/kinhdoanh"
+                android:title="Kinh Doanh "></item>
+            <item
+                android:id="@+id/mn_ex_startup"
+                android:icon="@drawable/startup"
+                android:title="Startup"></item>
+            <item
+                android:id="@+id/mn_ex_giaiTri"
+                android:icon="@drawable/giaitri"
+                android:title="Giải Trí"></item>
+            <item
+                android:id="@+id/mn_ex_theThao"
+                android:icon="@drawable/thethao"
+                android:title="Thể Thao"></item>
+            <item
+                android:id="@+id/mn_ex_phapLuat"
+                android:icon="@drawable/phapluat"
+                android:title="Pháp Luật"></item>
+            <item
+                android:id="@+id/mn_ex_giaoDuc"
+                android:icon="@drawable/giaoduc"
+                android:title="Giáo Dục"></item>
+            <item
+                android:id="@+id/mn_ex_sucKhoe"
+                android:icon="@drawable/suckhoe"
+                android:title="Sức Khỏe"></item>
+            <item
+                android:id="@+id/mn_ex_giaDinh"
+                android:icon="@drawable/giadinh"
+                android:title="Gia Đình" />
+            <item
+                android:id="@+id/mn_ex_duLich"
+                android:icon="@drawable/dulich"
+                android:title="Du Lịch" />
+            <item
+                android:id="@+id/mn_ex_khoaHoc"
+                android:icon="@drawable/khoahoc"
+                android:title="Khoa Học" />
+            <item
+                android:id="@+id/mn_ex_soHoa"
+                android:icon="@drawable/congnghe"
+                android:title="Số Hóa" />
+            <item
+                android:id="@+id/mn_ex_xe"
+                android:icon="@drawable/xe"
+                android:title="Xe" />
+            <item
+                android:id="@+id/mn_ex_congDong"
+                android:icon="@drawable/doisong"
+                android:title="Cộng Đồng" />
+            <item
+                android:id="@+id/mn_ex_tamsu"
+                android:icon="@drawable/tamsu"
+                android:title="Tâm Sự" />
+            <item
+                android:id="@+id/mn_ex_cuoi"
+                android:icon="@drawable/cuoi"
+                android:title="Cười" />
+
+
+        </menu>
+    </item>
+
+</menu>

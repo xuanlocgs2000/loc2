@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DocBao</string>
+    <string name="navigation_drawer_open">Mở Navigation Drawer</string>
+    <string name="navigation_drawer_close">Đóng Navigation Drawer</string>
+    <string name="drawer_open">Mở navigation drawer</string>
+    <string name="drawer_close">Đóng navigation drawer</string>
+    <string name="facebook_app_id">1182374982358020</string>
+</resources>

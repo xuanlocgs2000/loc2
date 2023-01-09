@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android_perfom/Appdocbao/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/android_perfom/Appdocbao/app/src/main/res/drawable/custom_progress_bar.xml" value="0.1" />
+        <entry key="..\:/android_perfom/Appdocbao/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/android_perfom/Appdocbao/app/src/main/res/drawable/ic_search_black_24dp.xml" value="0.1" />
+        <entry key="..\:/android_perfom/Appdocbao/app/src/main/res/layout/activity_details_article.xml" value="0.25" />
+        <entry key="..\:/android_perfom/Appdocbao/app/src/main/res/layout/activity_details_read_article.xml" value="0.25" />
+        <entry key="..\:/android_perfom/Appdocbao/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/android_perfom/Appdocbao/app/src/main/res/layout/activity_read_article.xml" value="0.25" />
+        <entry key="..\:/android_perfom/Appdocbao/app/src/main/res/layout/custom__lv_read_article.xml" value="0.25" />
+        <entry key="..\:/android_perfom/Appdocbao/app/src/main/res/layout/custom__lv_website.xml" value="0.1" />
+        <entry key="..\:/android_perfom/Appdocbao/app/src/main/res/layout/custom_lv_article.xml" value="0.25" />
+        <entry key="..\:/android_perfom/Appdocbao/app/src/main/res/menu/menu_btn_share.xml" value="0.2" />
+        <entry key="..\:/android_perfom/Appdocbao/app/src/main/res/menu/menu_loaibao.xml" value="0.25" />
+        <entry key="..\:/android_perfom/Appdocbao/app/src/main/res/menu/menu_loaibao_24h.xml" value="0.25" />
+        <entry key="..\:/android_perfom/Appdocbao/app/src/main/res/menu/menu_loaibao_dantri.xml" value="0.25" />
+        <entry key="..\:/android_perfom/Appdocbao/app/src/main/res/menu/menu_loaibao_danviet.xml" value="0.25" />
+        <entry key="..\:/android_perfom/Appdocbao/app/src/main/res/menu/menu_loaibao_nld.xml" value="0.25" />
+        <entry key="..\:/android_perfom/Appdocbao/app/src/main/res/menu/menu_loaibao_tienphong.xml" value="0.25" />
+        <entry key="..\:/android_perfom/Appdocbao/app/src/main/res/menu/menu_loaibao_vnexpress.xml" value="0.25" />
+        <entry key="..\:/android_perfom/Appdocbao/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/android_perfom/android_bc/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1445" />
+        <entry key="..\:/android_perfom/android_bc/app/src/main/res/drawable/background_splash_screen.xml" value="0.22" />
+        <entry key="..\:/android_perfom/android_bc/app/src/main/res/layout/activity_details_article.xml" value="0.25" />
+        <entry key="..\:/android_perfom/android_bc/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/android_perfom/android_bc/app/src/main/res/layout/activity_read_article.xml" value="0.234375" />
+        <entry key="..\:/android_perfom/android_bc/app/src/main/res/layout/custom__lv_read_article.xml" value="0.25" />
+        <entry key="..\:/android_perfom/android_bc/app/src/main/res/layout/custom__lv_website.xml" value="0.25" />
+        <entry key="..\:/android_perfom/android_bc/app/src/main/res/layout/custom_lv_article.xml" value="0.25" />
+        <entry key="..\:/android_perfom/android_bc/app/src/main/res/menu/menu_btn_share.xml" value="0.234375" />
+        <entry key="..\:/android_perfom/android_bc/app/src/main/res/menu/menu_loaibao.xml" value="0.25" />
+        <entry key="..\:/android_perfom/android_bc/app/src/main/res/menu/menu_loaibao_24h.xml" value="0.25" />
+        <entry key="..\:/android_perfom/android_bc/app/src/main/res/menu/menu_loaibao_danviet.xml" value="0.25" />
+        <entry key="..\:/android_perfom/android_bc/app/src/main/res/menu/menu_loaibao_nld.xml" value="0.25" />
+        <entry key="..\:/android_perfom/android_bc/app/src/main/res/menu/menu_loaibao_tienphong.xml" value="0.25" />
+        <entry key="..\:/android_perfom/android_bc/app/src/main/res/menu/menu_loaibao_vnexpress.xml" value="0.234375" />
+        <entry key="..\:/android_perfom/android_bc/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/android_perfom/android_bc/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

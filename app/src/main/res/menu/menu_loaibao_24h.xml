@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mn_3"
+        android:icon="@drawable/scrolldown3"
+        android:title="Menu"
+        app:showAsAction="always">
+        >
+        <menu>
+            <item
+                android:id="@+id/mn_24h_tc"
+                android:icon="@drawable/home"
+                android:title="Trang Chủ"></item>
+
+            <item
+                android:id="@+id/mn_24h_bd"
+                android:icon="@drawable/bongda"
+                android:title="Bóng Đá"></item>
+            <item
+                android:id="@+id/mn_24h_anhs"
+                android:icon="@drawable/canhsat"
+                android:title="An Ninh- Hình Sự"></item>
+
+            <item
+                android:id="@+id/mn_24h_tt"
+                android:icon="@drawable/thoitrang"
+                android:title="Thời Trang"></item>
+            <item
+                android:id="@+id/mn_24h_tcbds"
+                android:icon="@drawable/kinhdoanh"
+                android:title="Tài Chính- Bất Động Sản"></item>
+
+            <item
+                android:id="@+id/mn_24h_at"
+                android:icon="@drawable/amthuc"
+                android:title="Ẩm Thực"></item>
+
+            <item
+                android:id="@+id/mn_24h_ld"
+                android:icon="@drawable/lamdep"
+                android:title="Làm Đẹp"></item>
+            <item
+                android:id="@+id/mn_24h_phim"
+                android:icon="@drawable/phim"
+                android:title="Phim"></item>
+
+            <item
+                android:id="@+id/mn_24h_gddh"
+                android:icon="@drawable/giaoduc"
+                android:title="Giáo Dục- Du Học" />
+            <item
+                android:id="@+id/mn_24h_btcs"
+                android:icon="@drawable/doisong"
+                android:title="Bạn Trẻ- Cuộc Sống" />
+            <item
+                android:id="@+id/mn_24h_tt2"
+                android:icon="@drawable/thethao"
+                android:title="Thể Thao" />
+            <item
+                android:id="@+id/mn_24h_cntt"
+                android:icon="@drawable/congnghe"
+                android:title="Công Nghệ Thông Tin" />
+            <item
+                android:id="@+id/mn_24h_otoxm"
+                android:icon="@drawable/xe"
+                android:title="Ô tô- Xe Máy" />
+            <item
+                android:id="@+id/mn_24h_dl"
+                android:icon="@drawable/dulich"
+                android:title="Du Lịch" />
+            <item
+                android:id="@+id/mn_24h_skds"
+                android:icon="@drawable/suckhoe"
+                android:title="Sức Khỏe Đời Sống" />
+            <item
+                android:id="@+id/mn_24h_cuoi24h"
+                android:icon="@drawable/cuoi"
+                android:title="Cười 24h"></item>
+            <item
+                android:id="@+id/mn_24h_tg"
+                android:icon="@drawable/thegioi"
+                android:title="Thế Giới" />
+            <item
+                android:id="@+id/mn_24h_dss"
+                android:icon="@drawable/showbiz"
+                android:title="Đời Sống Showbiz" />
+            <item
+                android:id="@+id/mn_24h_gt"
+                android:icon="@drawable/giaitri"
+                android:title="Giải Trí" />
+
+
+        </menu>
+    </item>
+
+</menu>

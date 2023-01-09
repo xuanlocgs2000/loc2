@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mn_"
+        android:icon="@drawable/scrolldown3"
+        android:title="Menu"
+        app:showAsAction="always">
+        >
+        <menu>
+            <item
+                android:id="@+id/mn_trangChu"
+                android:icon="@drawable/home"
+                android:title="Trang Chủ"></item>
+
+            <item
+                android:id="@+id/mn_phapLuat"
+                android:icon="@drawable/phapluat"
+                android:title="Pháp Luật"></item>
+            <item
+                android:id="@+id/mn_congNghe"
+                android:icon="@drawable/congnghe"
+                android:title="Công Nghệ"></item>
+            <item
+                android:id="@+id/mn_kinhDoanh"
+                android:icon="@drawable/kinhdoanh"
+                android:title="Kinh Doanh "></item>
+
+            <item
+                android:id="@+id/mn_giaoDuc"
+                android:icon="@drawable/giaoduc"
+                android:title="Giáo Dục"></item>
+            <item
+                android:id="@+id/mn_thoiSu"
+                android:icon="@drawable/thoisu"
+                android:title="Thời Sự"></item>
+
+            <item
+                android:id="@+id/mn_giaiTri"
+                android:icon="@drawable/giaitri"
+                android:title="Giải Trí"></item>
+
+            <item
+                android:id="@+id/mn_sucKhoe"
+                android:icon="@drawable/suckhoe"
+                android:title="Sức Khỏe"></item>
+            <item
+                android:id="@+id/mn_theThao"
+                android:icon="@drawable/thethao"
+                android:title="Thể Thao"></item>
+
+            <item
+                android:id="@+id/mn_doiSong"
+                android:icon="@drawable/doisong"
+                android:title="Đời Sống" />
+            <item
+                android:id="@+id/mn_theGioi"
+                android:icon="@drawable/thegioi"
+                android:title="Thế Giới"></item>
+            <item
+                android:id="@+id/mn_batDongSan"
+                android:icon="@drawable/batdongsan"
+                android:title="Bất Động Sản" />
+            <item
+                android:id="@+id/mn_banDoc"
+                android:icon="@drawable/bandoc"
+                android:title="Bạn Đọc" />
+            <item
+                android:id="@+id/mn_tinMoiNong"
+                android:icon="@drawable/tinmoi"
+                android:title="Tin Mới Nóng" />
+            <item
+                android:id="@+id/mn_tinNoiBat"
+                android:icon="@drawable/tinnoibat"
+                android:title="Tin Nổi Bật" />
+            <item
+                android:id="@+id/mn_tuanVietNam"
+                android:icon="@drawable/vietnam"
+                android:title="Tuần Việt Nam" />
+            <item
+                android:id="@+id/mn_gocNhinThang"
+                android:icon="@drawable/gocnhinthang"
+                android:title="Góc Nhìn Thẳng" />
+
+
+        </menu>
+    </item>
+
+</menu>

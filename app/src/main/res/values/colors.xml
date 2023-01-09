@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#16a7ea</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="blue">#FF4081</color>
+    <style name="GreenText" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#000000</item>
+
+    </style>
+</resources>

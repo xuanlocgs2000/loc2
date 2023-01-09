@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mn_ex"
+        android:icon="@drawable/scrolldown3"
+        android:title="Menu"
+        app:showAsAction="always">
+        >
+        <menu>
+            <item
+                android:id="@+id/mn_tp_tc"
+                android:icon="@drawable/home"
+                android:title="Trang Chủ"></item>
+
+            <item
+                android:id="@+id/mn_tp_sk"
+                android:icon="@drawable/suckhoe"
+                android:title="Sức Khỏe"></item>
+            <item
+                android:id="@+id/mn_tp_xh"
+                android:icon="@drawable/doisong"
+                android:title="Xã Hội"></item>
+            <item
+                android:id="@+id/mn_tp_gt"
+                android:icon="@drawable/giaitri"
+                android:title="Giải Trí"></item>
+            <item
+                android:id="@+id/mn_tp_gdkh"
+                android:icon="@drawable/giaoduc"
+                android:title="Giáo Dục- Khuyến Học"></item>
+            <item
+                android:id="@+id/mn_tp_tt"
+                android:icon="@drawable/thethao"
+                android:title="Thể Thao"></item>
+            <item
+                android:id="@+id/mn_tp_tg"
+                android:icon="@drawable/thegioi"
+                android:title="Thế Giới"></item>
+            <item
+                android:id="@+id/mn_tp_kd"
+                android:icon="@drawable/kinhdoanh"
+                android:title="Kinh Doanh"></item>
+            <item
+                android:id="@+id/mn_tp_otoxm"
+                android:icon="@drawable/xe"
+                android:title="Ô Tô- Xe Máy"></item>
+            <item
+                android:id="@+id/mn_tp_sms"
+                android:icon="@drawable/congnghe"
+                android:title="Sức Mạnh Số"></item>
+            <item
+                android:id="@+id/mn_tp_bacsi"
+                android:icon="@drawable/tinhyeu"
+                android:title="Bác sĩ online" />
+            <item
+                android:id="@+id/mn_tp_cl"
+                android:icon="@drawable/chuyenla"
+                android:title="Chuyện Lạ" />
+            <item
+                android:id="@+id/mn_tp_dulich"
+                android:icon="@drawable/vieclam"
+                android:title="Việc Làm" />
+            <item
+                android:id="@+id/mn_tp_nst"
+                android:icon="@drawable/nhipsongtre"
+                android:title="Nhịp Sống Trẻ" />
+            <item
+                android:id="@+id/mn_tp_pl"
+                android:icon="@drawable/phapluat"
+                android:title="Pháp Luật" />
+            <item
+                android:id="@+id/mn_tp_bd"
+                android:icon="@drawable/bandoc"
+                android:title="Bạn Đọc" />
+            <item
+                android:id="@+id/mn_tp_vh"
+                android:icon="@drawable/vanhoa"
+                android:title="Văn Hóa" />
+            <item
+                android:id="@+id/mn_tp_dh"
+                android:icon="@drawable/duhoc"
+                android:title="Du Học" />
+            <item
+                android:id="@+id/mn_tp_dl"
+                android:icon="@drawable/dulich"
+                android:title="Du Lịch" />
+            <item
+                android:id="@+id/mn_tp_ds"
+                android:icon="@drawable/doisong"
+                android:title="Đời Sống" />
+            <item
+                android:id="@+id/mn_tp_khcn"
+                android:icon="@drawable/congnghe"
+                android:title="Khoa Học- Công Nghệ" />
+
+
+        </menu>
+    </item>
+
+</menu>
